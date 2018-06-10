@@ -18,7 +18,7 @@ public class First {
     public void Test()
     {
         System.out.println("这个是Test的注解");
-        Assert.assertEquals(1,2);
+        //Assert.assertEquals(1,2);
     }
     @AfterMethod
     public void AfterMethod()
